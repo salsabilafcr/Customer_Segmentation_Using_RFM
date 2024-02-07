@@ -9,6 +9,8 @@ The customer segmentation analysis was conducted using the RFM method, which div
 Python is used to implement this analysis, with the help of libraries such as Pandas, NumPy, and Scipy.
 
 ## Analysis Findings
+![alt text](https://github.com/salsabilafcr/Customer_Segmentation_Using_RFM/blob/main/RFM%20Analysis%20Result.png)
+
 From the analysis, several significant customer segments were identified:
 - Hibernating segment (27.3%): Customers in this segment have low transaction frequency and relatively small monetary value. The appropriate strategy is to design special programs to encourage them to return transactions, with a focus on increasing engagement.
 - Champion segment (14.1%): Customers in this segment have high transaction frequency and large monetary value. The strategic focus for this segment is to maintain a high level of engagement and ensure that they continue to feel valued as loyal customers.
