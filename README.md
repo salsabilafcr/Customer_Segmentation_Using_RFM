@@ -1,5 +1,15 @@
 # Customer Segmentation Analysis using RFM Method
-In an increasingly competitive online retail era, understanding customer behavior and needs is key to maintaining a competitive advantage. Therefore, a customer segmentation analysis using the RFM (Recency, Frequency, Monetary) method was conducted on an online retail dataset. This data covers transactions from a specific time period and provides valuable insights to improve the effectiveness of marketing and customer retention strategies.
+This project aims to perform customer segmentation analysis on online retail data using the RFM (Recency, Frequency, Monetary) method using the Python programming language. The data used includes information about customer purchasing behaviour, such as purchase frequency, transaction value, and last purchase time.
+
+This analysis provides valuable insights into customer purchasing behaviour and helps design more effective marketing strategies. By understanding the characteristics of each customer segment, companies can optimise marketing efforts and improve overall customer retention and conversion.
+
+## Problem Statement
+In the face of an increasingly competitive market, understanding customer profiles is crucial to designing effective marketing strategies. The main challenge is how to categorise customers into different segments based on their transaction characteristics, in order to design the right strategy to increase retention and conversion.
+
+## Objectives
+- Identified existing customer segments based on the RFM method.
+- Designed special programmes to increase conversion and transaction numbers from high potential segments.
+- Encouraged customers in inactive segments to return to transactions by designing appropriate special programmes, with the aim of increasing their engagement.
 
 ## Project Strategics
 The customer segmentation analysis was conducted using the RFM method, which divides customers based on three main factors: 
